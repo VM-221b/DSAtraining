@@ -1,2 +1,0 @@
-Class is a logical representation of things. Its like a blueprint or template for objects. 
-Object is a physical representation of class. Its an instance of class.
