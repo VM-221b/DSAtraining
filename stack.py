@@ -1,5 +1,4 @@
 import sys
-
 class Stacks:
     def __init__(self):
         self.stack = []
